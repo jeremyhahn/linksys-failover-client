@@ -1,0 +1,93 @@
+"Log Cleared - 1/28/2004 9:39:33 PM"
+"
+
+	1/28/2004 9:39:34 PM
+Primary HTTP Enabled... Checking TCP socket status at 192.168.1.90:80..."
+"1/28/2004 9:39:34 PM	The primary HTTP server responded with status code: 200 (Successful)"
+"
+
+	1/28/2004 9:39:34 PM
+Primary FTP Enabled... Checking TCP socket status at 192.168.1.90:21..."
+"1/28/2004 9:39:34 PM	The primary FTP server responded with : 220 Welcome to Pc Technics
+"
+"
+
+	1/28/2004 9:39:34 PM
+Primary SMTP Enabled... Checking TCP socket status at 192.168.1.90:25..."
+"1/28/2004 9:39:34 PM	The primary SMTP server responded with : 220 <1075343691.1318264640@mail.pc-technics.com> [XMail 1.17 (Linux/Ix86) ESMTP Server] service ready; Wed, 28 Jan 2004 21:34:51 -0500
+"
+"
+
+	1/28/2004 9:39:34 PM
+Primary POP3 Enabled... Checking TCP socket status at 192.168.1.90:110..."
+"1/28/2004 9:39:34 PM	The primary POP3 server responded with : +OK <1075343691.1318264640@mail.pc-technics.com> [XMail 1.17 (Linux/Ix86) POP3 Server] service ready; Wed, 28 Jan 2004 21:34:51 -0500
+"
+"
+
+	1/28/2004 9:39:34 PM
+Primary DNS Enabled... Checking TCP socket status at 192.168.1.87:53..."
+"1/28/2004 9:39:34 PM	Failover server enabled.... Probing failover server at 192.168.1.90:53 for DNS port status."
+"1/28/2004 9:39:34 PM	DNS acknowledgment response from failover server returned successful. Initiating DNS recovery attempt.
+"
+"----- ROUTER UPDATE FAILED ------"
+"The router says: Unauthorized Request"
+"
+
+	1/28/2004 9:39:56 PM
+Primary HTTP Enabled... Checking TCP socket status at 192.168.1.90:80..."
+"1/28/2004 9:39:56 PM	The primary HTTP server responded with status code: 200 (Successful)"
+"
+
+	1/28/2004 9:39:56 PM
+Primary FTP Enabled... Checking TCP socket status at 192.168.1.90:21..."
+"1/28/2004 9:39:56 PM	The primary FTP server responded with : 220 Welcome to Pc Technics
+"
+"
+
+	1/28/2004 9:39:56 PM
+Primary SMTP Enabled... Checking TCP socket status at 192.168.1.90:25..."
+"1/28/2004 9:39:56 PM	The primary SMTP server responded with : 220 <1075343713.1318264640@mail.pc-technics.com> [XMail 1.17 (Linux/Ix86) ESMTP Server] service ready; Wed, 28 Jan 2004 21:35:13 -0500
+"
+"
+
+	1/28/2004 9:39:56 PM
+Primary POP3 Enabled... Checking TCP socket status at 192.168.1.90:110..."
+"1/28/2004 9:39:56 PM	The primary POP3 server responded with : +OK <1075343713.1318264640@mail.pc-technics.com> [XMail 1.17 (Linux/Ix86) POP3 Server] service ready; Wed, 28 Jan 2004 21:35:13 -0500
+"
+"
+
+	1/28/2004 9:39:56 PM
+Primary DNS Enabled... Checking TCP socket status at 192.168.1.87:53..."
+"1/28/2004 9:39:56 PM	Failover server enabled.... Probing failover server at 192.168.1.90:53 for DNS port status."
+"1/28/2004 9:39:56 PM	DNS acknowledgment response from failover server returned successful. Initiating DNS recovery attempt.
+"
+"Failover recovery was successful. Failover server at 192.168.1.90:53 is now your primary DNS server."
+"
+
+	1/28/2004 9:40:29 PM
+Primary HTTP Enabled... Checking TCP socket status at 192.168.1.90:80..."
+"1/28/2004 9:40:29 PM	The primary HTTP server responded with status code: 200 (Successful)"
+"
+
+	1/28/2004 9:40:29 PM
+Primary FTP Enabled... Checking TCP socket status at 192.168.1.90:21..."
+"1/28/2004 9:40:29 PM	The primary FTP server responded with : 220 Welcome to Pc Technics
+"
+"
+
+	1/28/2004 9:40:29 PM
+Primary SMTP Enabled... Checking TCP socket status at 192.168.1.90:25..."
+"1/28/2004 9:40:29 PM	The primary SMTP server responded with : 220 <1075343747.1301487680@mail.pc-technics.com> [XMail 1.17 (Linux/Ix86) ESMTP Server] service ready; Wed, 28 Jan 2004 21:35:47 -0500
+"
+"
+
+	1/28/2004 9:40:29 PM
+Primary POP3 Enabled... Checking TCP socket status at 192.168.1.90:110..."
+"1/28/2004 9:40:29 PM	The primary POP3 server responded with : +OK <1075343747.1301487680@mail.pc-technics.com> [XMail 1.17 (Linux/Ix86) POP3 Server] service ready; Wed, 28 Jan 2004 21:35:47 -0500
+"
+"
+
+	1/28/2004 9:40:29 PM
+Primary DNS Enabled... Checking TCP socket status at 192.168.1.90:53..."
+"1/28/2004 9:40:29 PM	The primary DNS server responded successfully."
+Service Started  - 3/6/2006 2:04:15 PM    

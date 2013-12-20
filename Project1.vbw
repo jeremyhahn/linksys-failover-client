@@ -1,0 +1,15 @@
+frmService = 88, 88, 640, 536, C, 33, 36, 585, 484, C
+LinksysUpdate = 44, 44, 552, 492, C
+Base64Class = 176, 176, 727, 624, C
+Functions = 176, 176, 668, 624, C
+HTTP_POLL = 145, 70, 603, 518, C
+frmMain = 75, 154, 704, 499, C, 154, 154, 609, 602, C
+frmAbout = 0, 0, 0, 0, C, 0, 0, 519, 448, C
+frmAboutAuthor = 0, 0, 0, 0, C, 22, 22, 541, 470, C
+frmOptions = 0, 0, 522, 448, C, 22, 22, 544, 470, C
+frmRouterPassword = 66, 66, 585, 514, C, 66, 66, 585, 514, C
+FTP_POLL = 220, 220, 712, 668, C
+SMTP_POLL = 198, 198, 691, 646, C
+POP3_POLL = 88, 88, 584, 536, C
+DNS_POLL = 154, 154, 622, 602, C
+SubMain = 132, 132, 651, 580, C

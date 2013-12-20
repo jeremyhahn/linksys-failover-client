@@ -1,0 +1,101 @@
+[Root]
+Most Recent Package=Linksys Failover Client (LFC)
+
+[Package|Linksys Failover Client (LFC)|Package]
+PackageFolder=C:\Documents and Settings\wheeliekiing.WKSTN1\Desktop\LFC Project\Package
+ProjectFolder=C:\Documents and Settings\wheeliekiing.WKSTN1\Desktop\LFC Project
+ServerSideCab=
+File1=C:\Documents and Settings\wheeliekiing.WKSTN1\Desktop\LFC Project\Package\setup.exe
+File2=C:\Documents and Settings\wheeliekiing.WKSTN1\Desktop\LFC Project\Package\Setup.Lst
+File3=C:\Documents and Settings\wheeliekiing.WKSTN1\Desktop\LFC Project\Package\Linksys.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Linksys Failover Client (LFC)|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\wheeliekiing.WKSTN1\Desktop\LFC Project\Package
+
+[Package|Linksys Failover Client (LFC)|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Linksys Failover Client (LFC)|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Linksys Failover Client (LFC)|Files Found]
+
+[Package|Linksys Failover Client (LFC)|Files Released]
+
+[Package|Linksys Failover Client (LFC)|Missing Dependency Information]
+C:\WINNT\system32\Cryptx.ocx=
+C:\WINNT\system32\cswsk32.ocx=
+C:\WINNT\system32\ntsvc.ocx=
+
+[Package|Linksys Failover Client (LFC)|Out-of-Date Dependency Information]
+
+[Package|Linksys Failover Client (LFC)|Files Added]
+
+[Package|Linksys Failover Client (LFC)|Files Removed]
+
+[Package|Linksys Failover Client (LFC)|Files In Project]
+C:\Documents and Settings\wheeliekiing.WKSTN1\Desktop\LFC Project\Linksys.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\ntsvc.ocx=Yes
+C:\WINNT\system32\MBTray.ocx=Yes
+C:\WINNT\system32\cswsk32.ocx=Yes
+C:\WINNT\system32\Cryptx.ocx=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Linksys Failover Client (LFC)|Configure Registry Files]
+Applicable=No
+
+[Package|Linksys Failover Client (LFC)|Configure Remote Servers]
+Applicable=No
+
+[Package|Linksys Failover Client (LFC)|Install Locations]
+C:\Documents and Settings\wheeliekiing.WKSTN1\Desktop\LFC Project\Linksys.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ntsvc.ocx=$(WinSysPath)
+C:\WINNT\system32\MBTray.ocx=$(WinSysPath)
+C:\WINNT\system32\cswsk32.ocx=$(WinSysPath)
+C:\WINNT\system32\Cryptx.ocx=$(WinSysPath)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Linksys Failover Client (LFC)|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\wheeliekiing.WKSTN1\Desktop\LFC Project\Linksys.exe=No
+
+[Package|Linksys Failover Client (LFC)|Distribution]
+Type=single
+Size=
+Title=Linksys Failover Client
+
+[Package|Linksys Failover Client (LFC)|IconGroups]
+Group0=Linksys
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Linksys Failover Client (LFC)|Linksys]
+Icon1=Linksys.exe
+Title1=Linksys Failover Client
+StartIn1=$(AppPath)
+Key1=Icon1
